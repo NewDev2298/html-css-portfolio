@@ -5,5 +5,41 @@ body {
  .container {
     max-width: 1140px;
     margin: 0 auto;
-    background-color: aqua;
+ }
+
+ .container > header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #1a659e;
+    color: white;
+ }
+
+ nav a {
+    margin-left: 16px;
+    color: white;
+    text-decoration: none;
+ }
+
+ nav a:hover {
+    text-decoration: underline;
+ }
+
+ section {
+    padding: 20px;
+    font-size: 25px;
+    line-height: 48px;
+ }
+
+ #work {
+    display: flex;
+    flex-wrap: wrap;
+ }
+
+ article {
+    width: 50%;
+ }
+
+ .gel {
+    width: 100%
  }
