@@ -42,6 +42,15 @@ h2  {
     line-height: 48px;
  }
 
+.detail {
+    display: flex;
+    align-items: flex-start;
+}
+
+.detail img {
+    margin-right: 20px;
+    margin-bottom: 16px;
+}
  #work {
     display: flex;
     flex-wrap: wrap;
