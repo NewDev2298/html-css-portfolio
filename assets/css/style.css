@@ -50,6 +50,7 @@ h2  {
 .detail img {
     margin-right: 20px;
     margin-bottom: 16px;
+    width: 300px;
 }
  #work {
     display: flex;
