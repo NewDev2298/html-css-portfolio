@@ -9,6 +9,7 @@ h1  {
 
 h2  {
     font-size: 36px;
+    margin-bottom: 10px;
 }
  .container {
     max-width: 1140px;
@@ -51,6 +52,7 @@ h2  {
     margin-right: 20px;
     margin-bottom: 16px;
     width: 300px;
+    border-radius: 10% ;
 }
  #work {
     display: flex;
